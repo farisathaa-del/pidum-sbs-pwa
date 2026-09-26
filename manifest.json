@@ -1,0 +1,24 @@
+{
+  "name": "PIDUM SBS",
+  "short_name": "PIDUM SBS",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e8eaf0",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Scale_of_justice_2.svg/192px-Scale_of_justice_2.svg.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Scale_of_justice_2.svg/512px-Scale_of_justice_2.svg.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

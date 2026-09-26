@@ -8,17 +8,8 @@
   "background_color": "#e8eaf0",
   "theme_color": "#6366f1",
   "icons": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Scale_of_justice_2.svg/192px-Scale_of_justice_2.svg.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Scale_of_justice_2.svg/512px-Scale_of_justice_2.svg.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "maskable" }
   ]
 }
